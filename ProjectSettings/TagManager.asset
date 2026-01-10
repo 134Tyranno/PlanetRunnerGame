@@ -38,14 +38,17 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Default
-    uniqueID: 0
+  - name: Background
+    uniqueID: 2915066193
+    locked: 0
+  - name: StarBackground1
+    uniqueID: 1386689161
     locked: 0
   - name: Bloom
     uniqueID: 3284953741
     locked: 0
-  - name: Background
-    uniqueID: 1386689161
+  - name: Default
+    uniqueID: 0
     locked: 0
   m_RenderingLayers:
   - Default
